@@ -1,0 +1,14 @@
+Value types
+int
+float
+string
+bool
+structs
+
+
+Reference types
+slices
+maps
+channels
+pointers
+functions
