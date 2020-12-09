@@ -8,7 +8,7 @@ func main() {
 	hand.print()
 	remainingCards.print()
 
-	cards.saveToFile("my_cards")
+	cards.saveDeckToFile("my_cards")
 
 	cards1 := newDeckFromFile("my_cards")
 	cards1.print()
